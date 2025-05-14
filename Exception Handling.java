@@ -27,3 +27,11 @@ public class ExceptionHandlingExample {
         }
     }
 }
+
+// Implicit exceptions: They are defined by subtypes Error and RuntimeException.
+// They can occur at runtime and are not checked at compile-time.
+
+// Explicit exceptions: All exceptions that are not implicit are considered explicit. 
+// They are defined by subtypes Exception and Throwable.
+// This type of exception is checked at compile-time and unavoidable.
+// The programmer must handle them using try-catch blocks. 
