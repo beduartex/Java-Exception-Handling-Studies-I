@@ -1,10 +1,10 @@
 // How to create new exceptions in Java
-// // To create a new exception in Java, you can define a custom exception class that 
+// To create a new exception in Java, you can define a custom exception class that 
 // extends the Exception class.
-// // This allows you to create your own exception types that can be thrown and caught in your code.
-// // Here's an example of how to create a custom exception in Java:
+// This allows you to create your own exception types that can be thrown and caught in your code.
+// Here's an example of how to create a custom exception in Java:
 //
-// // Custom exception class
+// Custom exception class
 class CustomException extends Exception {
     public CustomException(String message) {
         super(message);

@@ -1,0 +1,24 @@
+OOP - Object Oriented Programming 
+
+Software design and development
+
+What are the first steps in order to solve our problems?
+
+The first stage is a recognition of the problem to be solved.
+In a corporate setting, this determination could come from market research.
+
+The second stage is a study of whether the project is feasible.
+Ex: Do the development tools exist to produce the software?
+
+The third stage a document is typically produced that specifies precisely what the software should do.
+
+In the fourth stage, a thorough analysis is done before any effort or resources are spent designing and implementing the project.
+
+The fifth stage is the design.
+Once a decision has been made to proceed, the software design team works from the requirements document to design the software. 
+
+After the design, the sixth stage would be implementing the application.
+The implementation consists of programmers coding the design to produce the software.
+
+The testing team attempts to ensure that the resulting software satisfies the requirements document. 
+Failure at this point may require a redesign or even some fine-tuning of the requirements.
