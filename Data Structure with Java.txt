@@ -1,6 +1,6 @@
 OOP - Object Oriented Programming 
 
-Software design and development
+----------------------------------------- SOFTWARE DESIGN AND DEVELOPMENT -----------------------------------------
 
 What are the first steps in order to solve our problems?
 
@@ -22,3 +22,24 @@ The implementation consists of programmers coding the design to produce the soft
 
 The testing team attempts to ensure that the resulting software satisfies the requirements document. 
 Failure at this point may require a redesign or even some fine-tuning of the requirements.
+
+One final aspect of software development that is not shown in the figure is the maintenance process.
+
+----------------------------------------- OBJECT-ORIENTED DESIGN -----------------------------------------
+
+The most common thing about software design is the top-bottom strategy. 
+It means breaking the problem into smaller parts (also called step-wise refinement).
+
+It focuses on the functional aspects of the problem and the implementation of algorithms.
+The Java programming language is particularly well-suited for implementing object-oriented designs.
+
+All executable code in Java is organized into classes that represent objects. That's why Java is called an OOP language.
+An object is a software unit that is produced according to a unique class specification. 
+It is called an instance of its class, and the process of creating it is called instantiating the class.
+
+
+
+
+
+
+
