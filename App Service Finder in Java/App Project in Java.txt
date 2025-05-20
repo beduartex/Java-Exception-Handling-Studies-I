@@ -1,0 +1,126 @@
+🧱 PHASE 1 — JAVA BASICS (5 – 6 days)
+
+📚 Learn:
+Installing JDK and IntelliJ IDEA or Eclipse - DONE ✅
+Syntax: variables, data types, operators DONE ✅
+Control flow: if, switch, for, while - DONE ✅
+Methods: void, return, parameters
+Input/output: Scanner, System.out - DONE ✅
+✅ Do:
+Print "Hello World" DONE ✅
+Build a calculator (practice if, switch) - On going
+Write a method to filter numbers from a list - 
+
+
+🧱 PHASE 2 — OBJECT-ORIENTED PROGRAMMING (5 – 7 days)
+
+📚 Learn:
+Classes and objects
+Constructors
+this keyword
+Access modifiers (private, public)
+Inheritance, polymorphism
+ArrayList, HashMap
+✅ Do:
+Create User and Professional classes
+Store multiple professionals in an ArrayList
+Print all professionals and filter by profession
+
+
+🧱 PHASE 3 — DATABASE & SQL (6 – 8 days)
+
+📚 Learn:
+What is a database (relational vs non-relational)
+SQL basics: CREATE, INSERT, SELECT, UPDATE, DELETE
+Install MySQL or SQLite
+Learn about JDBC (Java Database Connectivity)
+Connecting Java to MySQL
+Writing queries from Java
+✅ Do:
+Create a professionals table with fields: id, name, profession, description, location, rating
+Write Java code to:
+Add a new professional to the DB
+Get all professionals from the DB
+Filter professionals by profession or location
+
+
+🧱 PHASE 4 — SPRING BOOT (7 – 10 days)
+
+📚 Learn:
+What is a REST API
+Create a Spring Boot project with Maven
+Controllers, Services, Repositories
+@RestController, @Service, @Repository
+@GetMapping, @PostMapping, @RequestBody
+Use Spring Data JPA to interact with DB
+✅ Do:
+Build a REST API with:
+GET /professionals → list all
+GET /professionals/{profession} → filter
+POST /professionals → add a new one
+Test using Postman
+
+
+🧱 PHASE 5 — UI DEVELOPMENT (12 – 14 days)
+
+Choose one:
+✨ OPTION A: JavaFX (Desktop)
+📚 Learn:
+JavaFX setup
+Stage, Scene, Layouts (VBox, HBox, GridPane)
+TextField, ListView, Button
+Event listeners (setOnAction)
+HTTP requests using HttpURLConnection or a library like Retrofit
+✅ Do:
+Build:
+Login/Register screen
+Search input and dropdown filter
+List view of professionals
+Profile details screen
+📱 OPTION B: Android
+📚 Learn:
+Activities and layouts
+EditText, Button, RecyclerView
+Intent navigation
+HTTP requests using Retrofit
+JSON parsing
+✅ Do:
+Same features as JavaFX version
+Test on Android Emulator
+
+
+🧱 PHASE 6 — EXTRA FEATURES (Optional, 4 – 5 days)
+
+📚 Learn:
+File upload (profile photo)
+Ratings: add a Review model
+Authentication:
+Basic email/password login
+(Optional) Spring Security
+✅ Do:
+Let users rate professionals
+Add profile pictures
+Display average rating
+
+
+🧱 PHASE 7 — TESTING & DEPLOYMENT (4 – 5 days)
+
+📚 Learn:
+Unit testing basics (JUnit for backend)
+Debugging in IntelliJ
+How to deploy:
+Backend: Render, Heroku, or localhost
+JavaFX: build a .jar file
+Android: create .apk
+✅ Do:
+Test all APIs
+Test UI functionality
+Polish UI: colors, spacing, fonts
+Create screenshots and README
+💡 Helpful Tools
+
+IntelliJ IDEA – Java IDE
+MySQL Workbench – Database GUI
+Postman – API testing
+Figma or Draw.io – UI design (optional)
+Git + GitHub – Version control
