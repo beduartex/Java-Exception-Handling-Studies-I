@@ -6,6 +6,7 @@ Syntax: variables, data types, operators DONE ✅
 Control flow: if, switch, for, while - DONE ✅
 Methods: void, return, parameters
 Input/output: Scanner, System.out - DONE ✅
+
 ✅ Do:
 Print "Hello World" DONE ✅
 Build a calculator (practice if, switch) - On going
@@ -21,6 +22,7 @@ this keyword
 Access modifiers (private, public)
 Inheritance, polymorphism
 ArrayList, HashMap
+
 ✅ Do:
 Create User and Professional classes
 Store multiple professionals in an ArrayList
@@ -36,6 +38,7 @@ Install MySQL or SQLite
 Learn about JDBC (Java Database Connectivity)
 Connecting Java to MySQL
 Writing queries from Java
+
 ✅ Do:
 Create a professionals table with fields: id, name, profession, description, location, rating
 Write Java code to:
@@ -53,6 +56,7 @@ Controllers, Services, Repositories
 @RestController, @Service, @Repository
 @GetMapping, @PostMapping, @RequestBody
 Use Spring Data JPA to interact with DB
+
 ✅ Do:
 Build a REST API with:
 GET /professionals → list all
@@ -71,12 +75,14 @@ Stage, Scene, Layouts (VBox, HBox, GridPane)
 TextField, ListView, Button
 Event listeners (setOnAction)
 HTTP requests using HttpURLConnection or a library like Retrofit
+
 ✅ Do:
 Build:
 Login/Register screen
 Search input and dropdown filter
 List view of professionals
 Profile details screen
+
 📱 OPTION B: Android
 📚 Learn:
 Activities and layouts
@@ -84,6 +90,7 @@ EditText, Button, RecyclerView
 Intent navigation
 HTTP requests using Retrofit
 JSON parsing
+
 ✅ Do:
 Same features as JavaFX version
 Test on Android Emulator
@@ -97,6 +104,7 @@ Ratings: add a Review model
 Authentication:
 Basic email/password login
 (Optional) Spring Security
+
 ✅ Do:
 Let users rate professionals
 Add profile pictures
@@ -112,6 +120,7 @@ How to deploy:
 Backend: Render, Heroku, or localhost
 JavaFX: build a .jar file
 Android: create .apk
+
 ✅ Do:
 Test all APIs
 Test UI functionality
